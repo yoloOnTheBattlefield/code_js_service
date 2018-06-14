@@ -12,7 +12,7 @@
 * Create an endpoint, /portfolios or similar, with the ability to retrieve a JSON list of all portfolios and positions from the mock database module in the starter template.  The data returned should be correctly structured so each portfolio has a property with the collection of positions related to each.
 * Add the ability to retrieve only those portfolios which have the currency specified in the query.  The data should be structured as above with positions as a property on each portfolio.
 * Add whatever features you think necessary to make this a production ready application but you don't need a complete implementation as long as samples of each of the key ideas that should be implemented are included.
-* Fork this project to your repo, work on a branch with your full name in the name and create a pull request with the same name when you are ready for us to look at it.
+* Fork this project to your repo, work on a branch with your full name in the name and create a pull request with the same name when you are ready for us to look at it.   If you have not done this before take a look at [https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project](this guide).
   
 ## Notes
 * Once installed and started the service is located at [http://localhost:8085](http://localhost:8085).
